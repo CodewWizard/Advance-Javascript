@@ -1,0 +1,7 @@
+- Map is Higher order array method. 
+- Map creates a new array by performing some operations on each array element 
+- syntax of the map function is -
+    arr.map((value, index, array) =>{ 
+    //Perform some operation 
+    return value * value; 
+  })
